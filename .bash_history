@@ -50,3 +50,13 @@ git status
 ls
 git rm mythirdfile.java
 clear
+git push -u origin https://github.com/ranjithreddy1777/mydevproject.git
+git init
+git status
+git add .
+clear
+touch first.java
+git add .
+git commit -m "new java file added"
+git push -u origin master
+clear
